@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510080118983",
+    "project_id": "issuereporter-102bd",
+    "storage_bucket": "issuereporter-102bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510080118983:android:ab9d7f5b33b1ff1c1e8ee2",
+        "android_client_info": {
+          "package_name": "com.example.report_issue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwvhUS7EgUAJeSuXZ_kYyYfgIg-YTAOs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
