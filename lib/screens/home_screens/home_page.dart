@@ -28,7 +28,6 @@ class HomePage extends StatelessWidget {
             color: Colors.white,
           )),
       backgroundColor: AppTheme.backgroundColor,
-      // AIzaSyAk9UENjE95PcGmd6oX0AmAGjQbwvMzNeo
       body: Padding(
         padding: EdgeInsets.symmetric(vertical: 0.sp, horizontal: 0.sp),
         child: Obx(() => Visibility(
